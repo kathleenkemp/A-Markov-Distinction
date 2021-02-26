@@ -18,6 +18,7 @@ I believe that my system is creative because it is meaningful to me, and it prod
 
 
 Sources:
+
 https://numpy.org/doc/stable/reference/generated/numpy.reshape.html
 
 https://numpy.org/doc/stable/reference/random/generator.html?highlight=rng#numpy.random.default_rng
@@ -26,3 +27,7 @@ https://numpy.org/doc/stable/user/absolute_beginners.html?highlight=import%20ima
 
 https://pillow.readthedocs.io/en/stable/reference/Image.html
 
+
+Picture Credits:
+
+https://www.musee-orangerie.fr/en/artwork/water-lilies-morning-willows
